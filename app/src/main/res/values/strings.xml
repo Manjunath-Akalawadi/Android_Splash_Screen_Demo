@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android_Splash_Screen</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Lionel Messi</string>
+    <string name="slide_1_desc">FC Barcelona</string>
+
+    <string name="slide_2_title">Cristiano Ronaldo</string>
+    <string name="slide_2_desc">Real Madrid C.F</string>
+
+    <string name="slide_3_title">Luis Suárez</string>
+    <string name="slide_3_desc">FC Barcelona</string>
+
+    <string name="slide_4_title">Gareth Bale</string>
+    <string name="slide_4_desc">Real Madrid C.F</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
